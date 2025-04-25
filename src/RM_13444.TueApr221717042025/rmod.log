@@ -1,0 +1,11 @@
+RepeatModeler Version 2.0.4
+===========================
+Using output directory = /domus/h1/haider/genome-analysis/src/RM_13444.TueApr221717042025
+Search Engine = rmblast 2.14.0+
+Threads = 16
+Dependencies: TRF 4.09, RECON , RepeatScout 1.0.6, RepeatMasker 4.1.5
+LTR Structural Analysis: Enabled ( GenomeTools 1.6.1, LTR_Retriever v2.9.0,
+                                   Ninja 0.97-cluster_only, MAFFT 7.407,
+                                   CD-HIT 4.8.1 )
+Random Number Seed: 1745335021
+Database = niphotrichum_japonicum 
