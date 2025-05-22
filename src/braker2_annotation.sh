@@ -15,7 +15,7 @@
 module load bioinfo-tools samtools braker/2.1.6 GeneMark/4.68-es bamtools
 
 #cp -vf /sw/bioinfo/GeneMark/4.68-es/snowy/gm_key $HOME/.gm_key
-
+#chmod 777 $HOME/.gm_key
 THREADS=16
 
 ## Export environment for BRAKER and AUGUSTUS
